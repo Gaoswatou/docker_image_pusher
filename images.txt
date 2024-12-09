@@ -5,5 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nastool/nas-tools
-linuxserver/qbittorrent
+nastool/nas-tools:latest
+linuxserver/qbittorrent:latest
+# onlyoffice 套件
+onlyoffice/documentserver:latest
+rabbitmq:latest
+postgres:12

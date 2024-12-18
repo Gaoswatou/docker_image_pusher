@@ -8,6 +8,7 @@
 nastool/nas-tools:latest
 linyuan0213/nas-tools
 linuxserver/qbittorrent:latest
+allanpk716/chinesesubfinder
 # onlyoffice 套件
 onlyoffice/documentserver:latest
 rabbitmq:latest

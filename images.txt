@@ -14,4 +14,5 @@ onlyoffice/documentserver:latest
 rabbitmq:latest
 postgres:12
 
+localai/localai:latest-cpu
 

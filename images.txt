@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # linux 镜像
-rockylinux:latest
+rockylinux:9.3.20231119-minimal
 
 # nginx
 nginx:latest

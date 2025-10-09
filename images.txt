@@ -22,6 +22,9 @@ rabbitmq:latest
 # 项目管理软件 
 openproject/openproject:16
 
+# pairdrop 局域网空投
+linuxserver/pairdrop:1.11.2
+
 # 数据库
 postgres:12
 mysql:8.4
